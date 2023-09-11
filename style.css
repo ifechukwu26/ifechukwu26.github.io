@@ -1,0 +1,77 @@
+h1 {
+    color: brown;
+    text-align:center;
+    font-size: 60px;
+    
+}
+.imaged {
+    width: 400px;
+    height: 500px;
+
+ 
+}
+
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+  }
+li a{
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+li a:hover:not(.active) {
+    background-color: rgb(51, 34, 11);
+  }
+  
+  .active {
+    background-color: #1d4112;
+  }
+div{
+    color: rgb(111, 35, 35);
+}
+body{
+    background-image: url("Images/IMG_20230904_122447.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+#hzimage {
+margin: 0.5%;
+}
+h2 {
+    color: #711228;
+    text-align: center;
+font-size: 60pt;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.change {
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+.italics {
+    color: rgb(244, 84, 84);
+    font-size:30px;
+    font-style:oblique
+}
+.visithz{
+    color:black
+}
+.changecolor {
+color:plum
+}
+.navbar {
+    list-style-type: none;
+    background-color: black;
+}
