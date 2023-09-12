@@ -1,14 +1,15 @@
 h1 {
-    color: brown;
+    color: rgb(15, 4, 45);
     text-align:center;
-    font-size: 60px;
-    
+    font-size: 60px;  
 }
 .imaged {
     width: 400px;
-    height: 500px;
-
- 
+    height: 500px; 
+}
+img.pt{
+    width: 200px;
+    height: 200px;
 }
 
 ul{
@@ -32,14 +33,14 @@ li a{
 }
 
 li a:hover:not(.active) {
-    background-color: rgb(51, 34, 11);
+    background-color: rgb(11, 11, 51);
   }
   
   .active {
     background-color: #1d4112;
   }
 div{
-    color: rgb(111, 35, 35);
+    color: rgb(36, 4, 4);
 }
 body{
     background-image: url("Images/IMG_20230904_122447.jpg");
@@ -50,7 +51,7 @@ body{
 margin: 0.5%;
 }
 h2 {
-    color: #711228;
+    color: #125b71;
     text-align: center;
 font-size: 60pt;
 font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
@@ -61,7 +62,7 @@ font-family: 'Times New Roman', Times, serif;
 font-size: 20px;
 }
 .italics {
-    color: rgb(244, 84, 84);
+    color: rgb(167, 84, 244);
     font-size:30px;
     font-style:oblique
 }
@@ -71,7 +72,7 @@ font-size: 20px;
 .changecolor {
 color:plum
 }
-.navbar {
-    list-style-type: none;
-    background-color: black;
+
+.name {
+color: rgb(15, 15, 71);
 }
